@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'DescribeImages' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'DescribeImages' '1.0'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2021-06-23 15:32+0300\n"
+"PO-Revision-Date: 2021-06-23 14:47+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Muhammed Antar <muhammedantar22@gmail.com>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+msgid "Describe Images with Gemini"
+msgstr "وصف الصور بواسطة Gemini"
+
+msgid "Describe screen content using Gemini"
+msgstr "وصف محتوى الشاشة باستخدام Gemini"
+
+msgid "Please enter an API key from NVDA settings first."
+msgstr "يرجى إدخال مفتاح API من إعدادات NVDA أولاً."
+
+msgid "Description of the content of this image in detail (and in English)."
+msgstr "وصف محتوى هذه الصورة بالتفصيل (وباللغة العربية)."
+
+msgid "Gemini Response"
+msgstr "رد Gemini"
+
+msgid "Failed to connect to the internet: {error}"
+msgstr "فشل في الاتصال بالإنترنت: {error}"
+
+msgid "Error processing server response"
+msgstr "خطأ في معالجة الرد من الخادم"
+
+msgid "Unexpected error: {error}"
+msgstr "خطأ غير متوقع: {error}"
+
+msgid "Failed to describe image: {error}"
+msgstr "فشل في وصف الصورة: {error}"
+
+msgid "Chat with Gemini about the last captured image"
+msgstr "الدردشة مع Gemini حول آخر صورة تم التقاطها"
+
+msgid "No image has been captured yet."
+msgstr "لم يتم التقاط صورة بعد."
+
+msgid "Chat with Gemini about the image"
+msgstr "دردشة مع Gemini حول الصورة"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "❌ Error: {error}\n"
+msgstr "❌ خطأ: {error}\n"
+
+msgid "describeImages"
+msgstr "وصف الصور"
+
+msgid "Enter API key from Google AI Studio:"
+msgstr "أدخل مفتاح API من Google AI Studio:"
+
+msgid "Play waiting sound while processing"
+msgstr "تشغيل صوت الانتظار أثناء المعالجة"
+
+msgid "Get API Key from Google AI Studio"
+msgstr "الحصول على مفتاح API من Google AI Studio"

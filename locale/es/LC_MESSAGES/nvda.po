@@ -1,0 +1,73 @@
+# ALGÚN TÍTULO DESCRIPTIVO.
+# Copyright (C) AÑO DEL TITULAR DE LOS DERECHOS DEL PAQUETE
+# Este archivo se distribuye bajo la misma licencia que el paquete 'DescribeImages'.
+# PRIMER AUTOR <EMAIL@DIRECCIÓN>, AÑO.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'DescribeImages' '1.0'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2021-06-23 15:32+0300\n"
+"PO-Revision-Date: 2021-06-23 14:47+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: Muhammed Antar <muhammedantar22@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
+"Language: es\n"
+
+msgid "Describe Images with Gemini"
+msgstr "Describir imágenes con Gemini"
+
+msgid "Describe screen content using Gemini"
+msgstr "Describir el contenido de la pantalla usando Gemini"
+
+msgid "Please enter an API key from NVDA settings first."
+msgstr "Por favor, ingrese primero una clave API desde la configuración de NVDA."
+
+msgid "Description of the content of this image in detail (and in English)."
+msgstr "Descripción del contenido de esta imagen en detalle (y en el idioma español)."
+
+msgid "Gemini Response"
+msgstr "Respuesta de Gemini"
+
+msgid "Failed to connect to the internet: {error}"
+msgstr "Error al conectar a internet: {error}"
+
+msgid "Error processing server response"
+msgstr "Error al procesar la respuesta del servidor"
+
+msgid "Unexpected error: {error}"
+msgstr "Error inesperado: {error}"
+
+msgid "Failed to describe image: {error}"
+msgstr "No se pudo describir la imagen: {error}"
+
+msgid "Chat with Gemini about the last captured image"
+msgstr "Chatear con Gemini sobre la última imagen capturada"
+
+msgid "No image has been captured yet."
+msgstr "No se ha capturado ninguna imagen aún."
+
+msgid "Chat with Gemini about the image"
+msgstr "Chatear con Gemini sobre la imagen"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "❌ Error: {error}\n"
+msgstr "❌ Error: {error}\n"
+
+msgid "describeImages"
+msgstr "describeImages"
+
+msgid "Enter API key from Google AI Studio:"
+msgstr "Ingrese la clave API de Google AI Studio:"
+
+msgid "Play waiting sound while processing"
+msgstr "Reproducir sonido de espera durante el procesamiento"
+
+msgid "Get API Key from Google AI Studio"
+msgstr "Obtener clave API de Google AI Studio"
